@@ -20,9 +20,7 @@ Naklonujte (clone) repozitář:
 
 Bash
 
-git clone https://github.com/VASE_UZIVATELSKE_JMENO/NAZEV_REPOZITARE.git
-cd NAZEV_REPOZITARE
-(Nezapomeňte nahradit VASE_UZIVATELSKE_JMENO a NAZEV_REPOZITARE skutečnými údaji.)
+git clone https://github.com/tobiawspac/PythonSecureCrypt.gitcd NAZEV_REPOZITARE
 
 Nainstalujte potřebné závislosti:
 
